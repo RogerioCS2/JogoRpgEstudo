@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lenha
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terreno
+    uniqueID: 4254828027
+    locked: 0
+  - name: Casas
+    uniqueID: 1152095705
+    locked: 0
+  - name: Montanhas
+    uniqueID: 3581040003
+    locked: 0
+  - name: Personagem
+    uniqueID: 1986602493
+    locked: 0
+  - name: Arvore
+    uniqueID: 3340639453
+    locked: 0
